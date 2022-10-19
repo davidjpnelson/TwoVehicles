@@ -10,7 +10,7 @@ class TwoVehicles{
     //assign values to fields in coupe
     coupe.passengers = 2;
     coupe.fuelcap = 14;
-    coupe.mpg = 12;
+    coupe.mpg = 35;
     range1 = coupe.fuelcap * coupe.mpg;
 
     //assign values to fields in minivan
